@@ -1,0 +1,9 @@
+C:\Users\eren_\Desktop\PROJELER\Microservices\Shared\Microservices.Shared\bin\Debug\netcoreapp3.1\Microservices.Shared.deps.json
+C:\Users\eren_\Desktop\PROJELER\Microservices\Shared\Microservices.Shared\bin\Debug\netcoreapp3.1\Microservices.Shared.dll
+C:\Users\eren_\Desktop\PROJELER\Microservices\Shared\Microservices.Shared\bin\Debug\netcoreapp3.1\Microservices.Shared.pdb
+C:\Users\eren_\Desktop\PROJELER\Microservices\Shared\Microservices.Shared\obj\Debug\netcoreapp3.1\Microservices.Shared.csproj.AssemblyReference.cache
+C:\Users\eren_\Desktop\PROJELER\Microservices\Shared\Microservices.Shared\obj\Debug\netcoreapp3.1\Microservices.Shared.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\PROJELER\Microservices\Shared\Microservices.Shared\obj\Debug\netcoreapp3.1\Microservices.Shared.AssemblyInfo.cs
+C:\Users\eren_\Desktop\PROJELER\Microservices\Shared\Microservices.Shared\obj\Debug\netcoreapp3.1\Microservices.Shared.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\PROJELER\Microservices\Shared\Microservices.Shared\obj\Debug\netcoreapp3.1\Microservices.Shared.dll
+C:\Users\eren_\Desktop\PROJELER\Microservices\Shared\Microservices.Shared\obj\Debug\netcoreapp3.1\Microservices.Shared.pdb

@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var count = 0;
+}
+
+@model List<Microservices.MVC.Models.Catalog.CourseViewModel>
+
+<h2>Kurslar</h2>
+<hr />
+
+@if (Model.Any())
+
+{
+
+    @foreach (var item in Model)
+    {
+        count++;
+        if (count == 1 || (count % 3 == 1))
+        {
+            @Html.Raw("<div class='row row-cols-1 row-cols-md-3 g-4 mb-3' >")
+        }
+        <div class="col">
+            <div class="card">
+                <img src="@item.PictureUrl" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <h6 class="card-title">@(item.Category != null ? item.Category.Name : "Bulunamadı")</h6>
+                    <p class="card-text">@item.Description</p>
+                    <h4 class="text-primary">@item.Price TL</h4>
+
+                    <div>
+                        <a asp-controller="Home" asp-action="Detail" asp-route-courseId="@item.Id" class="btn btn-primary">Detay</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        if (count % 3 == 0)
+        {
+            @Html.Raw("</div>")
+        }
+
+    }
+}

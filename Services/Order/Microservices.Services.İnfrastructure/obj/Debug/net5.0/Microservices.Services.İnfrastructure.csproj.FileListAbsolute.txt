@@ -1,0 +1,11 @@
+C:\Users\eren_\Desktop\PROJELER\Microservices\Services\Order\Microservices.Services.İnfrastructure\bin\Debug\net5.0\Microservices.Services.İnfrastructure.deps.json
+C:\Users\eren_\Desktop\PROJELER\Microservices\Services\Order\Microservices.Services.İnfrastructure\bin\Debug\net5.0\Microservices.Services.İnfrastructure.dll
+C:\Users\eren_\Desktop\PROJELER\Microservices\Services\Order\Microservices.Services.İnfrastructure\bin\Debug\net5.0\ref\Microservices.Services.İnfrastructure.dll
+C:\Users\eren_\Desktop\PROJELER\Microservices\Services\Order\Microservices.Services.İnfrastructure\bin\Debug\net5.0\Microservices.Services.İnfrastructure.pdb
+C:\Users\eren_\Desktop\PROJELER\Microservices\Services\Order\Microservices.Services.İnfrastructure\obj\Debug\net5.0\Microservices.Services.İnfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren_\Desktop\PROJELER\Microservices\Services\Order\Microservices.Services.İnfrastructure\obj\Debug\net5.0\Microservices.Services.İnfrastructure.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\PROJELER\Microservices\Services\Order\Microservices.Services.İnfrastructure\obj\Debug\net5.0\Microservices.Services.İnfrastructure.AssemblyInfo.cs
+C:\Users\eren_\Desktop\PROJELER\Microservices\Services\Order\Microservices.Services.İnfrastructure\obj\Debug\net5.0\Microservices.Services.İnfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\PROJELER\Microservices\Services\Order\Microservices.Services.İnfrastructure\obj\Debug\net5.0\Microservices.Services.İnfrastructure.dll
+C:\Users\eren_\Desktop\PROJELER\Microservices\Services\Order\Microservices.Services.İnfrastructure\obj\Debug\net5.0\ref\Microservices.Services.İnfrastructure.dll
+C:\Users\eren_\Desktop\PROJELER\Microservices\Services\Order\Microservices.Services.İnfrastructure\obj\Debug\net5.0\Microservices.Services.İnfrastructure.pdb
